@@ -21,7 +21,7 @@
 
   <tr>
     <td><a href="https://github.com/wilfredo482">Wilfredo Pinto</a></td>
-    <td>Bravo</td>
+    <td><a href="https://github.com/wilfredo482/hg_2_bravo">Bravo</a></td>
     <td>Venezuela</td>
   </tr>
   <tr>
