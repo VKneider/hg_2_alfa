@@ -2,7 +2,7 @@
 <br>
 
 
-<h4 align="center">  📚 Docs | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/length"> Challenge_2 </a> | <a href="https://github.com/VKneider/hg_2_alfa/blob/main/docs/PULL_REQUEST_TEMPLATE.md"> PULL_REQUEST_TEMPLATE </a> | <a href="https://github.com/VKneider/hg_2_alfa/blob/main/docs/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT </a>  | ✨ Javascript Array Methods    | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"> Splice </a> | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice"> Slice </a> | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/length"> Length </a> |       
+<h4 align="center">  📚 Docs | <a href="https://github.com/SocialOplesk/hg-2"> Challenge_2 </a> | <a href="https://github.com/VKneider/hg_2_alfa/blob/main/docs/PULL_REQUEST_TEMPLATE.md"> PULL_REQUEST_TEMPLATE </a> | <a href="https://github.com/VKneider/hg_2_alfa/blob/main/docs/CODE_OF_CONDUCT.md"> CODE_OF_CONDUCT </a>  | ✨ Javascript Array Methods    | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/splice"> Splice </a> | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice"> Slice </a> | <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/length"> Length </a> |       
  </h4>
 <br>
 
