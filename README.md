@@ -32,8 +32,8 @@
     <td>Venezuela</td>
   </tr>
   <tr>
-    <td>Federico</td>
-    <td>Delta</td>
+    <td><a href="https://github.com/federico98"> Federico Medina </a></td>
+    <td><a href="https://github.com/federico98/hg_2_delta"> Delta </a></td>
     <td>Argentina</td>
   </tr>
   <tr>
